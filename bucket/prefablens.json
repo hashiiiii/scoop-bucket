@@ -9,16 +9,5 @@
             "hash": "16e223ae0b82c0a9ff38f5a3be9b8d916ac0d5677ec5c48195721df6d1645a94"
         }
     },
-    "bin": "prefablens.exe",
-    "checkver": "github",
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/hashiiiii/PrefabLens/releases/download/v$version/prefablens-windows-x64.zip",
-                "hash": {
-                    "url": "https://github.com/hashiiiii/PrefabLens/releases/download/v$version/SHA256SUMS"
-                }
-            }
-        }
-    }
+    "bin": "prefablens.exe"
 }
