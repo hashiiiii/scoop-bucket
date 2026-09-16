@@ -1,16 +1,16 @@
 {
-    "version": "0.10.8",
+    "version": "0.10.9",
     "description": "Semantic diff for UnityYAML assets",
     "homepage": "https://github.com/hashiiiii/PrefabLens",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hashiiiii/PrefabLens/releases/download/v0.10.8/prefablens-windows-x64.zip",
-            "hash": "a78a1ba40f5cce85d9f5934619e78df55f3bc5535fd5421edb09e5ba2fc947d2"
+            "url": "https://github.com/hashiiiii/PrefabLens/releases/download/v0.10.9/prefablens-windows-x64.zip",
+            "hash": "9374933c4ae651d5ea09ff0d69942789b59d82a141baca246bd9c1ddfecfaf5d"
         },
         "arm64": {
-            "url": "https://github.com/hashiiiii/PrefabLens/releases/download/v0.10.8/prefablens-windows-arm64.zip",
-            "hash": "95f241e7a69abdfc7f5f9eb70ff24ad2aa2ba75d62085c03baf08cd236f26765"
+            "url": "https://github.com/hashiiiii/PrefabLens/releases/download/v0.10.9/prefablens-windows-arm64.zip",
+            "hash": "ff9b455ab5c7562b130464b2141f1a85bb6a948f389ed8b7600a855d2798e847"
         }
     },
     "bin": "prefablens.exe",
